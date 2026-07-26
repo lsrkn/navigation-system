@@ -60,6 +60,9 @@ DRONE/
 
 ##### Примечание
 
+![Тесты](https://github.com/lsrkn/navigation-system/blob/main/testing/1.jpg)
+![Тесты](https://github.com/lsrkn/navigation-system/blob/main/testing/2.jpg)
+
 Папка navigation_workfiles содержит рабочие файлы и может быть проигнорирована
 
 
