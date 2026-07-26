@@ -59,10 +59,12 @@ DRONE/
     inv_cov_matrix.npy - Инверсная ковариационная матрица
 
 ##### Примечание
-
-![Тесты](https://github.com/lsrkn/navigation-system/blob/main/testing/1.jpg)
-![Тесты](https://github.com/lsrkn/navigation-system/blob/main/testing/2.jpg)
-
 Папка navigation_workfiles содержит рабочие файлы и может быть проигнорирована
+
+##### Тесты
+![Тест1](https://github.com/lsrkn/navigation-system/blob/main/testing/1.jpg)
+![Тест2](https://github.com/lsrkn/navigation-system/blob/main/testing/2.jpg)
+
+
 
 
